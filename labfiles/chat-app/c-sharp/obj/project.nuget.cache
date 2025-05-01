@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZE7TFB3Q5w=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\loysi\\loys_workspace\\mslearn-ai-studio\\labfiles\\chat-app\\c-sharp\\chat_app.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Configuration.Json (>= 3.1.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
